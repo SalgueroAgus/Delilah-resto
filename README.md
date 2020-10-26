@@ -1,4 +1,4 @@
-#Delilah Resto
+# Delilah Resto
 
 This project proposes the creation of an online ordering system for a restaurant. REST API that allows you to add, cancel, modify and obtain information about a data structure that a client could consume.
 
