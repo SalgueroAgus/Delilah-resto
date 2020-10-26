@@ -1,22 +1,33 @@
 {
-  "name": "Delilah-resto",
+  "name": "delilah-resto",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SalgueroAgus/Delilah-resto.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "backend",
+    "nodejs",
+    "express",
+    "mySQL",
+    "nodemon",
+    "endpoints"
+  ],
+  "author": "Agustin Salguero",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SalgueroAgus/Delilah-resto/issues"
   },
   "homepage": "https://github.com/SalgueroAgus/Delilah-resto#readme",
+
+ 
+
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
