@@ -8,7 +8,7 @@ This project proposes the creation of an online ordering system for a restaurant
 - Node.js
 - Nodemon
 - Express
-- JWT para autenticación via Token
+- JWT for token auth
 - MySQL
 - Sequelize
 - Postman for endpoints testing
@@ -22,11 +22,11 @@ Go to [Swagger](https://editor.swagger.io/) , then import `documentation.yaml`
 
 ### Installing and Starting the project
 
-1 - Clonar proyecto
+1 - Clone Project
 ```
 git clone https://github.com/SalgueroAgus/Delilah-resto
 ```
- 2 - Instalación de dependencias
+ 2 - Install dependencies
 ```
 npm install
 ```
